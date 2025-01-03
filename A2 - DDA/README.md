@@ -33,4 +33,4 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣦⡄⠒⠿⠿⢿⣿⠿⠿⢿⠿⠛⠛⢛⣋⣉⣉⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
 POKEMON-DEX (TKINER/API)
-BY. GERARD MATTHEW FERNANEZ
+        BY. GERARD MATTHEW FERNANEZ
